@@ -20,5 +20,5 @@ Questa è una semplice applicazione di counter sviluppata con HTML, CSS e JavaSc
 2. Apri il file `index.html` nel tuo browser.
 
 ```bash
-git clone: (https://github.com/erikbrienza/appcounter.git)
+git clone: https://github.com/erikbrienza/appcounter.git
 
